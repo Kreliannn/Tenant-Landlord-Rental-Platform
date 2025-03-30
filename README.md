@@ -4,6 +4,13 @@
 
 This platform connects **tenants** and **landlords**, providing a seamless way to manage property rentals with **map integration**. Landlords can post their rental properties, set their location on the map, and manage tenants, while tenants can browse available listings, apply for rentals, and communicate with landlords. Admins oversee platform activities, ensuring compliance and security.
 
+## ⚠️ <span style="color:red">Warning</span>  
+
+🚨 <span style="color:red">**This repository is private and contains only the frontend code.**</span>  
+If you want access to the **full source code**, please message me on TikTok.  
+
+🔗 [Contact me on TikTok](https://www.tiktok.com/@krelq) 
+
 ## Demo View
 
 🔗 [Live Demo](https://www.tiktok.com/@krelq/video/7448622214892621063)
