@@ -6,7 +6,7 @@ This platform connects **tenants** and **landlords**, providing a seamless way t
 
 ## Demo View
 
-🔗 [Live Demo](demo-url)
+🔗 [Live Demo](https://www.tiktok.com/@krelq/video/7448622214892621063)
 
 
 ## Features
