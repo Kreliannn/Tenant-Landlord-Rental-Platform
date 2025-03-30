@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* navbar start */
+
+#mynavbar.show {
+    background:linear-gradient(to right,#223b05, #a5b68d);
+    opacity: 0.92;     
+}
+#mynavbar{
+  width: 100%; 
+}
+.navbar-nav .nav-item {
+  padding: 10px 15px; 
+}
+.navbar-nav {
+  justify-content: end; 
+  width: 100%; 
+}
+.navbar-nav .nav-link{
+  font-weight: bold;
+  color:#f1f1f1;
+  font-family: Arial;
+}
+.navbar-nav .nav-link:hover{
+color: #f1f1f1;
+position:relative;
+}
+.navbar-nav .nav-link::after {
+content: '';
+position: absolute;
+width: 100%;
+height: 2px;
+bottom: 0;
+left: 0;
+background:linear-gradient(to right,#4c583a, #223b05);
+transform: scaleX(0);
+transition: transform 0.2s ease;
+}
+
+.navbar-nav .nav-link:hover::after {
+transform: scaleX(1);
+}
+/* Para sumama yung navbar kada scroll */
+.navbar {
+position: fixed;
+top: 0;
+width: 100%;
+z-index: 1000;
+}
+
+/* navbar end */
